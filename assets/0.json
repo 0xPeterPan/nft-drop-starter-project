@@ -1,0 +1,23 @@
+{
+    "name": "Musakhan",
+    "symbol": "",
+    "image": "0.png",
+    "collection": {
+        "name": "Palestinain Culture",
+        "family": "Palestinian Cuisine"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://thegazapost.com/img/808x550/XJYKJY3b3H4J.PNG",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GLs6UqcsjQTPocUymFCzMMVcGU2hSs3tVph9vcdWfq9b",
+          "share": 100
+        }
+      ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Mujadarah",
+    "symbol": "",
+    "image": "9.png",
+    "collection": {
+        "name": "Palestinain Culture",
+        "family": "Palestinian Cuisine"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "9.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GLs6UqcsjQTPocUymFCzMMVcGU2hSs3tVph9vcdWfq9b",
+          "share": 100
+        }
+      ]
+    }
+}

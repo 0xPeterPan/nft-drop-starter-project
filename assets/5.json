@@ -1,0 +1,23 @@
+{
+    "name": "Freekeh",
+    "symbol": "",
+    "image": "5.png",
+    "collection": {
+        "name": "Palestinain Culture",
+        "family": "Palestinian Cuisine"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "5.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GLs6UqcsjQTPocUymFCzMMVcGU2hSs3tVph9vcdWfq9b",
+          "share": 100
+        }
+      ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Sheikh-elmehshi",
+    "symbol": "",
+    "image": "12.png",
+    "collection": {
+        "name": "Palestinain Culture",
+        "family": "Palestinian Cuisine"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "12.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GLs6UqcsjQTPocUymFCzMMVcGU2hSs3tVph9vcdWfq9b",
+          "share": 100
+        }
+      ]
+    }
+}

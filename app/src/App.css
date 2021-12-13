@@ -1,9 +1,15 @@
 .App {
-  height: 100vh;
+  height: 120vh;
   background-color: rgb(20, 20, 20);
   overflow: scroll;
   text-align: center;
   overflow: hidden;
+  background-image: url("./assets/dome-rock-jerusalem.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .container {
@@ -11,6 +17,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  justify-items: center;
   padding: 0 30px 0 30px;
   color: white;
   position: relative;
@@ -25,7 +32,15 @@
 }
 
 .header-container {
-  /* background-color: #60c657; */
+  text-align: center;
+  width: 50%;
+  height: auto;
+  margin:auto;
+  background-color:black;
+  border-radius: 25px;
+  border: 4px solid #fff;
+  padding: 20px;
+  opacity: 0.75;
 }
 
 .header {
@@ -48,6 +63,7 @@
 .cta-button {
   height: 45px;
   border: 0;
+  margin: 0;
   width: auto;
   padding-left: 40px;
   padding-right: 40px;
@@ -69,6 +85,7 @@
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
   margin-left: 10px;
+  margin: auto;
 }
 
 .footer-container {
