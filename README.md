@@ -1,6 +1,6 @@
-# buildspace Solana NFT Drop Project
+# Solana NFT Drop Project
 ### Welcome 👋
-To get started with this course, clone this repo and follow these commands:
+To get started with this project, clone this repo and follow these commands:
 
 1. cd into the `app` folder
 2. Run `npm install` at the root of your directory
@@ -10,6 +10,7 @@ To get started with this course, clone this repo and follow these commands:
 ### What is the .vscode Folder?
 If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
 
-### Questions?
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/CO77556be5-25e9-49dd-a799-91a2fc29520e) and link your Discord account so you can get access to helpful channels and your instructor!
+### What is the theme I have chosen?
+I have chosen the Palestinian Cuisine to be make this NFT drop about
+You can check the dApp here https://palestinian-cuisine.vercel.app/
 
